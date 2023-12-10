@@ -1,6 +1,7 @@
-﻿#NoEnv
+﻿#NoEnv ; Recommended for performance and compatibility with future AutoHotkey releases.
+SendMode Input ; Recommended for new scripts due to its superior speed and reliability.
 #SingleInstance force
-SendMode Input
+
 SetWorkingDir %A_ScriptDir%
 
 Run RelicCoH2.exe -window -fullwindow -nomovies -forceactive -lockMouse
