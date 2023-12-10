@@ -1,9 +1,16 @@
-# CoH2-Autohotkey
+# CoH2-AutoHotkey
+Company of Heroes 2 Key binding implementation written in autohotkey.
 
-Autohotkey download 
-- https://www.autohotkey.com/
+# Features
+- Key binding
+- Automatically dispose of a autohotkey instance
+- game start with autohotkey script
 
-Steam start option
+# Requirements
+- [AutoHotkey Download](https://www.autohotkey.com/download/)
+
+# Steam start option
+
 ``
 CoH2-Boot.ahk %COMMAND%
 ``
