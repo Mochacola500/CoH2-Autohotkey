@@ -9,8 +9,10 @@ Company of Heroes 2 Key binding implementation written in autohotkey.
 # Requirements
 - [AutoHotkey Download](https://www.autohotkey.com/download/)
 
-# Steam
-Before start the game, enter Launch options
+# Batch Steam
+1. Copy and Paste files to the company of heroes 2 folder.
+1. Right click the company of heroes 2 title and select Properties.
+2. On the General, Enter the Launch options.
 
 ``
 CoH2-Boot.ahk %COMMAND%
